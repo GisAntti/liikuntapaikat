@@ -1,0 +1,2 @@
+# liikuntapaikat
+Helsingin liikuntapaikat
